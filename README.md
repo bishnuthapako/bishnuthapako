@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishnuthapako" alt="bishnuthapako" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript**
--  🌱 My portfolio [](https://bishnuthapa.netlify.app/)
+-  🌱 My portfolio [portfolio](https://bishnuthapa.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@bishnuthapako](https://medium.com/@bishnuthapako)
 
